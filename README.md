@@ -155,7 +155,7 @@ $client->get('https://quotes.toscrape.com/js/');
     $crawler->filter('.quote')->each(function ($node) {
         $author = $node->filter('.author')->text();
         $quote = $node->filter('.text')->text();
-       echo $autor." - ".$quote
+       echo $author." - ".$quote
     });
 ```
 
