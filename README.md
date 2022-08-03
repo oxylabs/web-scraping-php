@@ -13,7 +13,7 @@ PHP offers various building blocks required to build a web scraper, although it 
 
 This article will guide you through the step-by-step process of writing various PHP web scraping routines that can extract public data from static and dynamic web pages
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/web-scraping-php).
+For a detailed explanation, see our [blog post](https://oxy.yt/Jr3d).
 
 ## Installing Prerequisites
 
@@ -195,4 +195,4 @@ fclose($file);
 
 
 
-If you wish to find out more about web scraping with PHP, see our [blog post](https://oxylabs.io/blog/web-scraping-php).
+If you wish to find out more about web scraping with PHP, see our [blog post](https://oxy.yt/Jr3d).
