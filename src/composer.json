@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=7.1",
+        "fabpot/goutte": "^4.0",
+        "symfony/panther": "^2.0"
+    }
+}
