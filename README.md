@@ -5,6 +5,8 @@
 
 [<img src="https://img.shields.io/static/v1?label=&message=PHP&color=brightgreen" />](https://github.com/topics/php) [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping) 
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+
 - [Installing Prerequisites](#installing-prerequisites)
 - [Making an HTTP GET request](#making-an-http-get-request)
 - [Web scraping in PHP with Goutte](#web-scraping-in-php-with-goutte)
