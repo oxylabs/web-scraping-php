@@ -5,7 +5,7 @@
 
 [<img src="https://img.shields.io/static/v1?label=&message=PHP&color=brightgreen" />](https://github.com/topics/php) [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping) 
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 - [Installing Prerequisites](#installing-prerequisites)
 - [Making an HTTP GET request](#making-an-http-get-request)
